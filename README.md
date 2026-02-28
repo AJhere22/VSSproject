@@ -10,5 +10,3 @@ version control by using git and git hub vss project
 
 # Description
 Demonstrating how version control collaboration can work by using GitHub and the tools it provides
-
-# test 1
